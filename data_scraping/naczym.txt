@@ -1,0 +1,15 @@
+- ppg, trb, ast, stl, blk, pf, pts, g
+
+- jeśli gracz grał w sezonie w więcej niż jednej drużynie to bierzemy drużynę, w której zagrał najwięcej gier
+
+- przewidujemy miejsce drużyny w fazie zasadniczej w swojej konferencji
+
+- bierzemy tylko poprzedni sezon graczy przychodzących i odchodzących, numer picku w drafcie poprzedni sezon drużyny
+
+- model nie przewiduje: decyzji trenera, rozwoju zawodników, kontuzji i prawdopodobieństwa kontuzji, nagłych zmian formy zawodników
+
+- w slowniku dostajemy:
+	- graczy ktorzy odeszli + staty
+	- graczy ktorzy przyszli + staty
+	- staty druzyny w prev season
+	- numer picku w drafcie ?????????? albo nie ????????????
