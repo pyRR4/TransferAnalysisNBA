@@ -15,5 +15,5 @@ The project results and detailed descriptions are available in the report (PDF f
 - Python
 - Libraries: `pandas`, `scikit-learn`, `matplotlib`
 
-##Author
+## Author
 Igor Podgórniak
